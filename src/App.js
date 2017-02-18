@@ -12,7 +12,7 @@ class App extends Component {
                 {id: 1001, text: 'react는 라이브러리이다.'},
                 {id: 1002, text: '라이브러리 치곤 러닝커브가 높은편이다.'}
             ],
-            filter: null
+            editing: null
         }
     }
     render(){
